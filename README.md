@@ -52,10 +52,6 @@
 
 ###
 
-<p align="center">
-<a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/{Aleksey-7}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
-</p>
-
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%">
 
 ###
