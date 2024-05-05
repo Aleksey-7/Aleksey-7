@@ -32,7 +32,7 @@
 <br clear="both">
 
 <div align="right">
-  <a href="https://www.linkedin.com/in/oleksiisavka/" target="_blank">
+  <a href="https://www.linkedin.com/in/oleksii-savka-062868269/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="41" alt="linkedin logo"  />
   </a>
   <a href="https://t.me/SavkaAleksey" target="_blank">
